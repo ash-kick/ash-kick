@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Ashley 👋
 
-<!--
-**ash-kick/ash-kick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack software engineer building web applications with **React and Node.js**.
 
-Here are some ideas to get you started:
+Previously worked on healthcare data systems supporting large-scale clinical and operational workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Project Highlights
+
+**EventPop**  
+Personalized event discovery platform built with React, Node.js, and MongoDB.
+
+**Dog Adoption Platform API**  
+Backend REST API for managing dog adoption listings using Express and MongoDB.
+
+**Space Travel Project**  
+Frontend React application consuming external APIs.
+
+## 🛠 Tech
+
+JavaScript | React | Node.js | MongoDB | SQL | Express | REST APIs | AWS
+
+## 📫 Links
+
+GitHub: https://github.com/ash-kick  
+LinkedIn: https://www.linkedin.com/in/ashley-kicklighter/
